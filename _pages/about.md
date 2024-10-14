@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a third year postgraduate student from [School of CS](https://cs.cug.edu.cn/), [Chnia University of Geoscience](https://www.cug.edu.cn/). My research interest includes graph neural network, AI, LLM, data ming, LLM and their applications.
+Hi! I'm a third year postgraduate student from [School of CS](https://cs.cug.edu.cn/), [Chnia University of Geoscience](https://www.cug.edu.cn/). My research interest includes(but are not limited to): graph neural network, AI, LLM, data ming, LLM and their applications such as healthcare and so on.
 
 I am very fortunate to be advised by [Prof. Hu Chengyu](https://www.researchgate.net/profile/Chengyu-Hu)
 
