@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen Yiwen / Personal Homepage"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Chen Yiwen"
 description              : &description "Keep Happy Keep Healthy "
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "1202221491@cug.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yiwen-Chen-79"
   uri              :
   bitbucket        :
