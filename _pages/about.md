@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a third year postgraduate student from [School of CS], [Chnia University of Geosciences]. 
+Hi! I'm a third year postgraduate student from [School of CS], [China University of Geosciences]. 
 
 My research interest includes(but are not limited to): 
 Graph neural network, LLM, HCI, Data ming, Evolutionary Computation and their applications such as healthcare and so on.
