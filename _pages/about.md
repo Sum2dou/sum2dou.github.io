@@ -23,4 +23,4 @@ In the long term, my research goal is to liberate AI productivity and democratiz
 <h1>Service</h1>
 Serve as a reviewer for IEEE Transactions on Neural Networks and Learning Systems
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=59cf1aoqgyc&amp;m=7&amp;c=ff0000&amp;cr1=ff0000&amp;f=arial&amp;l=33" async="async"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mixvCUBzTHwij0sqcpMZQgy0YfGRExBPiHLbUShl_NE&cl=ffffff&w=a"></script>
