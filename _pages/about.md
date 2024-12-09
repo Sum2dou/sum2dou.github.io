@@ -10,7 +10,7 @@ redirect_from:
 Hi! I'm a third year postgraduate student from School of Computer Science, China University of Geosciences. 
 
 My research interest focus on interdisciplinary of AI and HCI includes(but are not limited to): Human-centered AI
-, Graph neural network, LLM, and their applications and so on.
+, Graph neural network, HCI,LLM, Computer Supported Cooperative Work, visualization and their applications.
 
 I am very fortunate to be advised by [Prof. Hu Chengyu](https://www.researchgate.net/profile/Chengyu-Hu) and [Prof. Yan Xuesong](https://www.researchgate.net/profile/Xuesong-Yan-2).
 
