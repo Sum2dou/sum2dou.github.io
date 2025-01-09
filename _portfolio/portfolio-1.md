@@ -1,6 +1,7 @@
 ---
 title: "Use OpenGL to realize a robot"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1"
+image: "/images/portfolio/asa-data/Capture.PNG"
 collection: portfolio
 ---
 
