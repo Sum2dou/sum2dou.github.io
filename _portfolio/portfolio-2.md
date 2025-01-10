@@ -5,4 +5,4 @@ image: "/images/robot.png"
 collection: portfolio
 ---
 
-you can view the pdf of my portfolio here [cyw's Portfolio](../assets/Portfolio of YiwenChen.pdf)
+you can view the pdf of my portfolio here [cyw's Portfolio](/assets/Portfolio of YiwenChen.pdf)
