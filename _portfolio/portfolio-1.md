@@ -1,7 +1,7 @@
 ---
 title: "A robot"
 excerpt: "Use OpenGL to realize a robot"
-image: "[https://sum2dou.github.io/images/robot.png"
+image: "<img src='https://sum2dou.github.io/images/robot.png'>
 collection: portfolio
 ---
 
