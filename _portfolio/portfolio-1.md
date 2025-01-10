@@ -1,6 +1,7 @@
 ---
 title: "A robot"
-excerpt: "Use OpenGL to realize a robot"<br/><img src='/images/robot.png'>"
+excerpt: "Use OpenGL to realize a robot"
+image:"/images/robot.png"
 collection: portfolio
 ---
 
