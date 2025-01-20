@@ -9,7 +9,7 @@ Dancing is my favorite sport. I was a member of the school hippop dancing team i
 
 Hiking and other exercises such as going to gym and swimming are also my type:) 
 
-![dance with friends](https://sum2dou.github.io/images/friends.jpg){:height="50%" width="50%"}
+<img src="https://sum2dou.github.io/images/friends.jpg" width="200" />
 <center>Dancing with my friends</center>
 
 ![camp training](https://sum2dou.github.io/images/camp.jpg =300x)
