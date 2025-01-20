@@ -1,5 +1,5 @@
 ---
-title: "Word Cloud Using Python"
+title: "Word Cloud Visualization Using Python"
 excerpt: "Use python, wordcloud, jieba, ichat to visualize my 1000+ wechat friends’ personalized signature in a custom mask"
 image: "/images/robot.png"
 collection: portfolio
