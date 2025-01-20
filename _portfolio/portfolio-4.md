@@ -7,6 +7,6 @@ collection: portfolio
 
 ![cloud-1](https://sum2dou.github.io/images/wordcloud.JPG)
 <center>Word cloud in chinese map</center>
-![cloud-1](https://sum2dou.github.io/images/wordcloud2.JPG)
+![cloud-2](https://sum2dou.github.io/images/wordcloud2.JPG)
 <center>Word cloud in Alise</center>
 
