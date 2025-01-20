@@ -1,2 +1,12 @@
-![cloud-1](https://sum2dou.github.io/images/wordcloud.jpg)
-<center>Dancing with my friends</center>
+---
+title: "Word Cloud Using Python"
+excerpt: "Use python, wordcloud, jieba, ichat to visualize my 1000+ wechat friends’ personalized signature in a custom mask"
+image: "/images/robot.png"
+collection: portfolio
+---
+
+![cloud-1](https://sum2dou.github.io/images/wordcloud.JPG)
+<center>Word cloud in chinese map</center>
+![cloud-1](https://sum2dou.github.io/images/wordcloud2.JPG)
+<center>Word cloud in Alise</center>
+
