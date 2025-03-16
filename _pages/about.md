@@ -10,14 +10,13 @@ redirect_from:
 Hi! I'm a third year postgraduate student from School of Computer Science, China University of Geosciences. 
 
 My research interest focus on interdisciplinary of AI and HCI includes(but are not limited to): Human-centered AI
-, Graph neural network, VR/XR, Computer Supported Cooperative Work, visualization and their applications such as healthcare, climate, society, education and so on.
+, Graph neural network, VR/XR, Computer Supported Cooperative Work, visualization and their applications such as healthcare, ecology, society, education and so on.
 
 I am very fortunate to be advised by [Prof. Hu Chengyu](https://www.researchgate.net/profile/Chengyu-Hu) and [Prof. Yan Xuesong](https://www.researchgate.net/profile/Xuesong-Yan-2).
 
 You can find my CV here: [cyw's Curriculum Vitae](../assets/Yiwen Chen's CV.pdf).
 
 In the long term, my research goal is to liberate AI productivity and democratize its application, ensuring that it serves a broader range of populations and real world applications in an equal, sustainable, and responsible manner.😊
-I also want to combine AI and art to make some creative things. I love science and art forever:)
 
 [Email](1202221491@cug.edu.cn) / [Github](https://github.com/sum2dou) // [CSDN](https://blog.csdn.net/weixin_45393580?spm=1000.2115.3001.5343)
 
