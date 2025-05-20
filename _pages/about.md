@@ -14,7 +14,7 @@ My research interest focus on interdisciplinary of AI and HCI includes(but are n
 
 <!--I am very fortunate to be advised by [Prof. Hu Chengyu](https://www.researchgate.net/profile/Chengyu-Hu) and [Prof. Yan Xuesong](https://www.researchgate.net/profile/Xuesong-Yan-2). -->  
 
-You can find my CV here: [cyw's Curriculum Vitae](../assets/Yiwen Chen's CV.pdf).
+<!--You can find my CV here: [cyw's Curriculum Vitae](../assets/Yiwen Chen's CV.pdf).--> 
 
 In the long term, my research goal is to liberate AI productivity and democratize its application, ensuring that it serves a broader range of populations and real world applications in an equal, sustainable, and responsible manner.😊 
 
