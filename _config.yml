@@ -15,7 +15,7 @@ name                     : &name "Chen Yiwen" 
 description              : &description "Keep Happy Keep Healthy&Full of hope, we will be invincible"   # Update this with a general description of your site, this is the default if not overridden by a page 
 url                      : https://sum2dou.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io", 
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog" 
+baseurl                  : "" # the subpath of your site, e.g. "/blog"  
 repository               : "sum2dou/sum2dou.github.io" 
 
 # Site Author - The following control what appear as part of the author content on the side bar. 
@@ -25,22 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yiwen Chen" 
-  pronouns         : # example: "she/her"    
-        
-        
-          
-            
-          
-          重试
-          
-        
-          
-            
-          
-          错误原因
-        
-        
-        
+  pronouns         : # example: "she/her"
   bio              : "Keep happy  Keep healthy & Full of hope, we will be invincible." 
   location         : "Earth"
   employer         : #"Red Brick University"
