@@ -21,7 +21,7 @@ main:
     url: /portfolio/
         
   - title: "Miscs"
-    url: /year-archive/
+    url: /miscs/
     
   #- title: "CV"
    # url: /cv/
@@ -30,4 +30,4 @@ main:
   #   url: /cv-json/
     
   #- title: "Guide"
-    url: /markdown/
+    #url: /markdown/
