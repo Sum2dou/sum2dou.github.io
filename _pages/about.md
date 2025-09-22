@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a third year postgraduate student from School of Computer Science, China University of Geosciences. 
+Hi! I gained my master degree from School of Computer Science, China University of Geosciences. 
 
 My research interest focus on interdisciplinary of AI and HCI includes(but are not limited to): Human-centered AI
 , Graph neural network, data mining, Computer Supported Cooperative Work, visualization and their applications such as healthcare, ecology, society, education and so on.  
@@ -23,4 +23,4 @@ In the long term, my research goal is to liberate AI productivity and democratiz
 <h1>Service</h1>
 Serve as a reviewer for IEEE Transactions on Neural Networks and Learning Systems
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mixvCUBzTHwij0sqcpMZQgy0YfGRExBPiHLbUShl_NE&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=386&t=tt&d=mixvCUBzTHwij0sqcpMZQgy0YfGRExBPiHLbUShl_NE'></script>
